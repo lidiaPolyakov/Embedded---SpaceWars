@@ -1,0 +1,11 @@
+*.flag
+*.o
+*.d
+*.xml
+*.elf
+*.map
+*.hex
+*.mk
+/dist/
+.generated_files/
+nbproject/
